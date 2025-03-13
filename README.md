@@ -1,5 +1,8 @@
 # Churn-Prediction
 
+# database
+Telco Customer Churn
+: https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 # Research
 
 Customer Churn Prediction with Hybrid Resampling and Ensemble Learning.
