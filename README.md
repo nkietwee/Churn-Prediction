@@ -8,3 +8,5 @@ Customer Churn Prediction with Hybrid Resampling and Ensemble Learning.
 Machine Learning with Oversampling and Undersampling Techniques: Overview Study and Experimental Results
 : https://ieeexplore.ieee.org/document/9078901
 
+ChurnNet: Deep Learning Enhanced Customer Churn Prediction in Telecommunication Industry
+: https://ieeexplore.ieee.org/document/10380579
